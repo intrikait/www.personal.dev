@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: Splash Page
+ * Template Name: About Page
  *
  * @package Wordpress
  * @subpackage vantage
